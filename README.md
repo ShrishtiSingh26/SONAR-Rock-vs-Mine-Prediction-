@@ -73,6 +73,14 @@ pip install pandas seaborn matplotlib scikit-learn
 
 5. **Partial Fit for SGD:**
    - The `partial_fit` method is used to incrementally train the SGD model in a loop over the training dataset.
+## Model Accuracy
+**Logistic Regression Accuracy:** 0.7619047619047619
+
+**KNN Accuracy:** 0.7857142857142857
+
+**Random Forest Accuracy:** 0.8333333333333334
+
+**SGD Classifier Accuracy:** 0.5714285714285714
 
 ## Usage
 
