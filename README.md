@@ -129,6 +129,6 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 
-**Front-End Integration:** A front-end developer can create a form to accept sonar signal data input, which will then send a POST request to the /predict endpoint to retrieve predictions. The predictions can be displayed on the web page for user interaction.
+**Front-End Integration:** A front-end developer can create a form to accept sonar signal data input, which will then send a POST request to the `/predict` endpoint to retrieve predictions. The predictions can be displayed on the web page for user interaction.
 
 
